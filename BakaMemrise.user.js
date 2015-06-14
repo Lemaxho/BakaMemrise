@@ -5,8 +5,8 @@
 // @version        0.2
 // @grant          none
 // @match          http://www.memrise.com/home/
-// @updateURL https://raw.githubusercontent.com/Lemaxho/BakaMemrise/master/BakaMemrise.js
-// @downloadURL https://raw.githubusercontent.com/Lemaxho/BakaMemrise/master/BakaMemrise.js
+// @updateURL https://raw.githubusercontent.com/Lemaxho/BakaMemrise/master/BakaMemrise.user.js
+// @downloadURL https://raw.githubusercontent.com/Lemaxho/BakaMemrise/master/BakaMemrise.user.js
 // ==/UserScript==
 
 var container = document.getElementsByClassName("tabbed-main page");
