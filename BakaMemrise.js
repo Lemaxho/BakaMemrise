@@ -5,6 +5,8 @@
 // @version        0.1
 // @namespace      https://github.com/Lemaxho/BakaMemrise
 // @grant          none
+// @updateURL https://raw.githubusercontent.com/Lemaxho/BakaMemrise/master/BakaMemrise.js
+// @downloadURL https://raw.githubusercontent.com/Lemaxho/BakaMemrise/master/BakaMemrise.js
 // ==/UserScript==
 
 var container = document.getElementsByClassName("tabbed-main page");
