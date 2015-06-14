@@ -1,12 +1,12 @@
 // ==UserScript==
-// @name           BakaMemrise Leaderboard
+// @name           BakaMemrise
 // @namespace      https://github.com/Lemaxho/BakaMemrise
 // @description    Memrise: Restore the leaderboard on home page.
 // @version        0.2
 // @grant          none
 // @match          http://www.memrise.com/home/
 // @updateURL https://raw.githubusercontent.com/Lemaxho/BakaMemrise/master/BakaMemrise.user.js
-// @downloadURL https://raw.githubusercontent.com/Lemaxho/BakaMemrise/master/BakaMemrise.user.js
+// @downloadURL https://github.com/Lemaxho/BakaMemrise
 // ==/UserScript==
 
 var container = document.getElementsByClassName("tabbed-main page");
