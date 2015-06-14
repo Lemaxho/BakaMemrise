@@ -6,7 +6,7 @@
 // @grant          none
 // @match          http://www.memrise.com/home/
 // @updateURL https://raw.githubusercontent.com/Lemaxho/BakaMemrise/master/BakaMemrise.user.js
-// @downloadURL https://github.com/Lemaxho/BakaMemrise
+// @downloadURL https://raw.githubusercontent.com/Lemaxho/BakaMemrise/master/BakaMemrise.user.js
 // ==/UserScript==
 
 var container = document.getElementsByClassName("tabbed-main page");
